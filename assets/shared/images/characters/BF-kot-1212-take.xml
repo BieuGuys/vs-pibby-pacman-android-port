@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF-kot-1212-take.png"><SubTexture name="BF-kot-1212-take Idle0000" x="0" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Idle0001" x="790" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Idle0002" x="0" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Idle0003" x="790" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Idle0004" x="1580" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up0000" x="1580" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up0001" x="0" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up0002" x="790" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up0003" x="1580" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up0004" x="0" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down0000" x="790" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down0001" x="1580" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down0002" x="2370" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down0003" x="2370" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down0004" x="2370" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left0000" x="3160" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left0001" x="3160" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left0002" x="3160" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left0003" x="3160" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left0004" x="3160" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up-miss0000" x="0" y="2930" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up-miss0001" x="790" y="2930" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up-miss0002" x="1580" y="2930" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up-miss0003" x="2370" y="2930" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Up-miss0004" x="3160" y="2930" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down-miss0000" x="3950" y="0" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down-miss0001" x="3950" y="586" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down-miss0002" x="3950" y="1172" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down-miss0003" x="3950" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Down-miss0004" x="3950" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right-miss0000" x="0" y="3516" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right-miss0001" x="818" y="3516" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right-miss0002" x="1636" y="3516" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right-miss0003" x="2454" y="3516" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right-miss0004" x="3272" y="3516" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left-miss0000" x="0" y="4102" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left-miss0001" x="818" y="4102" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left-miss0002" x="1636" y="4102" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left-miss0003" x="2454" y="4102" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Left-miss0004" x="3272" y="4102" width="818" height="586" frameX="0" frameY="0" frameWidth="818" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right0000" x="2370" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right0001" x="1580" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right0002" x="790" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right0003" x="0" y="2344" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+<SubTexture name="BF-kot-1212-take Right0004" x="2370" y="1758" width="790" height="586" frameX="0" frameY="0" frameWidth="790" frameHeight="586" />
+</TextureAtlas>

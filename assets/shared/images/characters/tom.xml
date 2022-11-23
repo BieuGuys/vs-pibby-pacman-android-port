@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tom.png"><SubTexture name="tom Idle0000" x="0" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Idle0001" x="960" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Idle0002" x="0" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Idle0003" x="960" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Idle0004" x="1920" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Right0000" x="1920" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Right0001" x="0" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Right0002" x="960" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Right0003" x="1920" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Right0004" x="0" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Down0000" x="960" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Down0001" x="1920" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Down0002" x="2880" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Down0003" x="2880" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Down0004" x="2880" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Left0000" x="2880" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Left0001" x="0" y="2880" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Left0002" x="960" y="2880" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Left0003" x="1920" y="2880" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Left0004" x="2880" y="2880" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Up0000" x="3840" y="0" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Up0001" x="3840" y="720" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Up0002" x="3840" y="1440" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Up0003" x="3840" y="2160" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+<SubTexture name="tom Up0004" x="3840" y="2880" width="960" height="720" frameX="0" frameY="0" frameWidth="960" frameHeight="720" />
+</TextureAtlas>

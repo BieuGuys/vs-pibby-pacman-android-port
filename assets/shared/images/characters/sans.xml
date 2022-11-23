@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sans.png"><SubTexture name="sans Idle0000" x="0" y="0" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Idle0001" x="960" y="0" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Idle0002" x="0" y="709" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Idle0003" x="960" y="709" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Idle0004" x="1920" y="0" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Up0000" x="1920" y="709" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Up0001" x="0" y="1418" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Up0002" x="960" y="1418" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Up0003" x="1920" y="1418" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Up0004" x="0" y="2127" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Down0000" x="960" y="2127" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Down0001" x="1920" y="2127" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Down0002" x="2880" y="0" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Down0003" x="2880" y="709" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Down0004" x="2880" y="1418" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Right0000" x="2880" y="2127" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Right0001" x="0" y="2836" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Right0002" x="960" y="2836" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Right0003" x="1920" y="2836" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Right0004" x="2880" y="2836" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Left0000" x="3840" y="0" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Left0001" x="3840" y="709" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Left0002" x="3840" y="1418" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Left0003" x="3840" y="2127" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+<SubTexture name="sans Left0004" x="3840" y="2836" width="960" height="709" frameX="0" frameY="0" frameWidth="960" frameHeight="709" />
+</TextureAtlas>
