@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"image": "pac-man",
+	"position": [
+		290,
+		-80
+	],
+	"flipX": false,
+	"scale": 0.85,
+	"confirm_anim": "M Dad Idle"
+}
